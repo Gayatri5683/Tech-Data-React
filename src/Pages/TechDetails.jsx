@@ -1,12 +1,12 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
 import tech from '../Data/TechData.json';
-
+import { Link } from 'react-router-dom';
 
 const TechDetails = () => {
 
-    const { _id } = useParams();
-    const techData = tech.find((techData) => String(techData._id) === String(_id));
+    const { id } = useParams();
+    const techData = tech.find((techData) => String(techData._id) === String(id));
 
     if (!techData) {
         return <p className='text-center'>Product Not Found</p>
