@@ -4,9 +4,10 @@ import Home from './Pages/Home';
 import TechData from './Pages/TechData';
 import Header from './Component/Header';
 import Footer from './Component/Footer';
+import TechDetails from './Pages/TechDetails';
 
 function App() {
- 
+
 
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/techData' element={<TechData />} />
+        <Route path='/techData/:id' element={<TechDetails />} />
       </Routes>
       <Footer />
       </BrowserRouter>
