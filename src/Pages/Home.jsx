@@ -9,8 +9,8 @@ const Home = () => {
             Welcome to Our Tech Heaven
         </div>
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4'>
-            {tech.slice(0,4).map((TechData) => (
-                <div className='border text-black px-4 py-2 rounded mt-4'>
+            {tech.slice(0,4).map((TechData, index) => (
+                <div key={index} className='border text-black px-4 py-2 rounded mt-4'>
                     <img src={TechData.image} alt={TechData.title} className='w-full h-40 object-cover'/>
                     <div className='p-4'>
                         <h2 className='text-lg font-semibold mt-2'>{TechData.title}</h2>
