@@ -2,7 +2,7 @@
     {
       "_id": 1020155,
       "title": "Headphones Wireless",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "High-quality wireless headphones offering clear sound and comfort.",
       "oldPrice": 150,
       "price": 103.2,
       "brand": "next",
@@ -13,7 +13,7 @@
     {
       "_id": 2025454,
       "title": "Gaming Headphone",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Designed for gamers, these headphones provide immersive audio and a built-in microphone.",
       "oldPrice": 300,
       "price": 270,
       "brand": "Techno",
@@ -27,7 +27,7 @@
       "isNew": true,
       "oldPrice": 490,
       "price": 360,
-      "description": "You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions.",
+      "description": "Comfortable headphones featuring a microphone and enhanced noise isolation.",
       "category": "Headphones",
       "image": "https://i.ibb.co/xDqmwGW/headphone-8.webp",
       "brand": "JBL"
@@ -38,7 +38,7 @@
       "isNew": true,
       "oldPrice": 380,
       "price": 340,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Samsung's Android tablet with a sleek design and powerful performance.",
       "category": "Mobile Tablets",
       "image": "https://i.ibb.co/RpnnGmx/mobile-1.webp",
       "brand": "Samsung"
@@ -49,7 +49,7 @@
       "isNew": true,
       "oldPrice": 1399,
       "price": 1350,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Apple's latest smartphone with advanced features and a high-quality camera.",
       "category": "Mobile Tablets",
       "image": "https://i.ibb.co/gmdpWtD/mobile-5.webp",
       "brand": "Apple"
@@ -60,7 +60,7 @@
       "isNew": true,
       "oldPrice": 999,
       "price": 949.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Lightweight and powerful tablet from Apple, suitable for work and entertainment.",
       "category": "Mobile Tablets",
       "image": "https://i.ibb.co/G9ttXCM/ipad-1.webp",
       "brand": "Apple"
@@ -71,7 +71,7 @@
       "isNew": true,
       "oldPrice": 299,
       "price": 189.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Smartwatch by Sony offering fitness tracking and smartphone connectivity.",
       "category": "Smart Watch",
       "image": "https://i.ibb.co/sQmZc0x/watch-5.webp",
       "brand": "Sony"
@@ -82,7 +82,7 @@
       "isNew": true,
       "oldPrice": 199,
       "price": 169,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Fitness-focused smartwatch designed for women, featuring health monitoring.",
       "category": "Smart Watc",
       "image": "https://i.ibb.co/w4K4TY2/watch-9.webp",
       "brand": "Sony"
@@ -93,7 +93,7 @@
       "isNew": true,
       "oldPrice": 470,
       "price": 399.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Durable and comfortable sport band compatible with Apple Watch.",
       "category": "Smart Watch",
       "image": "https://i.ibb.co/xqQtGPr/watch-1.webp",
       "brand": "Apple"
@@ -104,7 +104,7 @@
       "isNew": true,
       "oldPrice": 99.99,
       "price": 79.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Lenovo's wireless Bluetooth device for seamless connectivity.",
       "category": "Bluetooth",
       "image": "https://i.ibb.co/0XPd7D4/blutooth-4.webp",
       "brand": "Lenovo"
@@ -115,7 +115,7 @@
       "isNew": true,
       "oldPrice": 57,
       "price": 49,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Sporty Bluetooth headset from Lenovo, ideal for active users.",
       "category": "Bluetooth",
       "image": "https://i.ibb.co/YNLw2QM/blutooth-1.webp",
       "brand": "Lenovo"
@@ -126,7 +126,7 @@
       "isNew": true,
       "oldPrice": 130,
       "price": 110,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Efficient air cooler by IBM for optimal CPU temperature management.",
       "category": "CPU Heat Pipes",
       "image": "https://i.ibb.co/2d2qBRb/cpu-1.webp",
       "brand": "IBM"
@@ -137,7 +137,7 @@
       "isNew": true,
       "oldPrice": 250,
       "price": 170,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "High-performance air cooler from Microsoft ensuring effective CPU cooling.",
       "category": "CPU Heat Pipes",
       "image": "https://i.ibb.co/yqndcgs/cpu-5.webp",
       "brand": "Microsoft"
@@ -148,7 +148,7 @@
       "isNew": true,
       "oldPrice": 450,
       "price": 399.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Classic Nike shoes combining retro style with modern comfort.",
       "category": "Shoes",
       "image": "https://i.ibb.co/WFWKQWZ/shoes-1.webp",
       "brand": "Nike"
@@ -159,7 +159,7 @@
       "isNew": true,
       "oldPrice": 99,
       "price": 80,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Natural mineral makeup product by Inika for a sun-kissed look.",
       "category": "Discover Skincare",
       "image": "https://i.ibb.co/PGRX8wM/powder-1.webp",
       "brand": "Inika"
@@ -170,7 +170,7 @@
       "isNew": true,
       "oldPrice": 160,
       "price": 120,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Cosmetic product from Iconic offering quality lip care.",
       "category": "Awesome Lip Care",
       "image": "https://i.ibb.co/qkspnNy/cosmetics-1.webp",
       "brand": "Iconic"
@@ -181,7 +181,7 @@
       "isNew": true,
       "oldPrice": 600,
       "price": 499,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Elegant three-row bangle by next, perfect for accessorizing.",
       "category": "Bracelets",
       "image": "https://i.ibb.co/ThVqy07/bracelet-4.webp",
       "brand": "next"
@@ -192,7 +192,7 @@
       "isNew": true,
       "oldPrice": 70,
       "price": 55,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Haircare product by Iconic formulated for fine hair with tea tree and lemon.",
       "category": "Discover Skincare",
       "image": "https://i.ibb.co/998PPnW/cosmetics-4.webp",
       "brand": "Iconic"
@@ -203,7 +203,7 @@
       "isNew": true,
       "oldPrice": 130,
       "price": 99.99,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Face wash from Extras providing gentle cleansing.",
       "category": "Awesome Lip Care",
       "image": "https://i.ibb.co/9n6f275/cream-1.webp",
       "brand": "Extras"
@@ -214,7 +214,7 @@
       "isNew": true,
       "oldPrice": 550,
       "price": 380,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
+      "description": "Stylish creole hoop earrings by Butterfly for a fashionable look.",
       "category": "Earrings",
       "image": "https://i.ibb.co/wNsPjhC/earring-8.webp",
       "brand": "Butterfly"

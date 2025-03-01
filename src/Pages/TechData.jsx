@@ -16,7 +16,8 @@ const TechData = () => {
             <div className='p-4'>
                 <h2 className="text-lg font-semibold mt-2">{techData.title}</h2>
                 <h3 className='text-lg font-semibold '>{techData.brand}</h3>
-                <p className="text-sm text-gray-600">₹{techData.price}</p>
+                <p className="text-sm text-gray-800"><b>₹</b>{techData.price}</p>
+             {/*    <p className='text-sm text-gray-600'>{techData.ratings}</p> */}
             </div>
             <Link to={`/tech/${techData._id}`} className='bg-red-400 text-black px-4 py-2 rounded mt-4 block text-center'>
             View Details

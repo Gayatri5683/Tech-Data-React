@@ -13,16 +13,19 @@ const TechDetails = () => {
     }
   return (
     <div className='container mx-auto p-4'>
-        <div className=' rounded-lg shadow-lg'>
-            <img src={techData.image} alt={techData.title} className='w-full h-80 object-cover'/>
-            <div className='p-4'>
-                <h2 className='text-2xl font-bold'>{techData.title}</h2>
-                <h3 className='text-lg font-semibold'>Brand: {techData.brand}</h3>
-                <p className='text-sm text-gray-600'>Price: ₹{techData.price}</p>
+        <div /* className=' rounded-lg  ' */>
+            <img src={techData.image} alt={techData.title} className='w-[40%] h-[40%] object-cover'/>
+            <div className='p-4 relative -mt-130 w-[40%] ml-170  ' >
+                <h2 className='text-3xl font-bold'>{techData.title}</h2>
                 <p className='mt-2'>{techData.description}</p>
-                <p className='mt-4'>{techData.description || "No description available." }</p>
+                <h3 className='text-lg mt-2 font-semibold'>Brand: {techData.brand}</h3>
+                <p className='mt-2 text-lg font-bold'>{techData.category}</p>
+                <p className='text-sm mt-2 text-gray-800'><b>Price: ₹</b>{techData.price}</p>
+                
+                
+                {/* <p className='mt-2'>{techData.rating}</p> */}
                 </div>
-                <div className='mt-6'>
+                <div className='mt-20 mb-15 items-center justify-center flex'>
                     <Link to='/' className='bg-red-400 text-black px-4 py-2 rounded'>Go Back</Link>
                 </div>
         </div>
